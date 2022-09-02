@@ -4,6 +4,6 @@ return name;
 }
 public static void main(String args[])
 {
-Name n=new Name("My Name Is Manisha(Matki)");
+Name n=new Name("Maaz Naav Manisha Ahe Aani Mala Matakayla Aawadt");
 }
 }
